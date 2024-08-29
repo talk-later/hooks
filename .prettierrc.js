@@ -15,7 +15,7 @@ module.exports = {
   // 使用默认的折行标准 preserve [never]
   proseWrap: 'preserve',
   // 使用 4 个空格缩进
-  tabWidth: 4,
+  tabWidth: 2,
   // 不使用缩进符，而使用空格
   useTabs: false,
   // 大括号内的首尾需要空格
